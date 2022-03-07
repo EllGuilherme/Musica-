@@ -2,6 +2,7 @@
 Console.ForegroundColor = ConsoleColor.Yellow;
 Console.WriteLine("pequena");
 Console.ResetColor();
+Console.WriteLine(); 
 // cor branca na musica 
 Console.ForegroundColor = ConsoleColor .White;
 Console.WriteLine ("Deixa eu te contar, parei em seu olhar");
@@ -25,6 +26,7 @@ Console.WriteLine ("Pequena");
 Console.WriteLine ("Vem, vou te mostrar");
 Console.WriteLine ("A lua, o céu e o mar de estrelas");
 Console.ResetColor();
+Console.WriteLine(); 
 // cor branca da musica 
 Console.ForegroundColor = ConsoleColor.White;
 Console.WriteLine ("Deixa eu te contar, parei em seu olhar em seu olhar");
@@ -34,9 +36,8 @@ Console.WriteLine ("A lua, o céu e o mar (céu e mar) de estrelas");
 Console.WriteLine ("Deixa eu te contar, parei em seu olhar");
 Console.WriteLine ("Pequena");
 Console.WriteLine ("Vem, vou te mostrar");
-Console.WriteLine ("A lua, o céu e o mar de estrelas");
+Console.WriteLine ("A lua, o céu e o mar de estrelas.");
 Console.ResetColor();
-Console.ForegroundColor = ConsoleColor.black
 
 
 
