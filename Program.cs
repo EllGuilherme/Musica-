@@ -36,7 +36,7 @@ Console.WriteLine ("Pequena");
 Console.WriteLine ("Vem, vou te mostrar");
 Console.WriteLine ("A lua, o céu e o mar de estrelas");
 Console.ResetColor();
-
+Console.ForegroundColor = ConsoleColor.black
 
 
 
